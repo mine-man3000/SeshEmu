@@ -1,0 +1,7 @@
+#define INA 0x00
+#define DEA 0x01
+#define JMP 0x02
+#define END 0x03
+#define MUL 0x04
+#define DIV 0x05
+#define MOV 0x06
